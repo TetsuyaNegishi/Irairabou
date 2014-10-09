@@ -9,3 +9,5 @@ C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.Pr
 C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.csproj.GenerateResource.Cache
 C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.exe
 C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.pdb
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.Form2.resources
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.StartForm.resources

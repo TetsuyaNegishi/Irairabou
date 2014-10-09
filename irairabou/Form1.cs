@@ -43,7 +43,7 @@ namespace irairabou
 
         }
 
-        private void startButton_Click(object sender, EventArgs e)
+        public void startButton_Click(object sender, EventArgs e)
         {
             //カーソルをスタート位置に移動
             Point startingPoint = field.Location;
@@ -51,6 +51,8 @@ namespace irairabou
             Cursor.Position = PointToScreen(startingPoint);
 
             playGame = true;
+            playTime = 0;
+            playTimeLabel.Text = "Time:" + playTime;
             timer1.Start();
         }
 
@@ -66,8 +68,7 @@ namespace irairabou
             {
                 playGame = false;
                 timer1.Stop();
-                MessageBox.Show("Game Over");
-     
+                MessageBox.Show("Miss!\n" + "Please, retry.");
             }
         }
 
