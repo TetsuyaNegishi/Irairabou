@@ -1,0 +1,11 @@
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\bin\Debug\irairabou.exe.config
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\bin\Debug\irairabou.exe
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\bin\Debug\irairabou.pdb
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\bin\Debug\ja\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.csprojResolveAssemblyReference.cache
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.Form1.resources
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.Properties.Resources.resources
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.csproj.GenerateResource.Cache
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.exe
+C:\Users\Tetsuya\Desktop\VisualStudio\irairabou\irairabou\obj\Debug\irairabou.pdb
